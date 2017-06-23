@@ -6,8 +6,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HomeController {
 
-    @RequestMapping(path = "/")
+    @RequestMapping(path = "/foo")
     public String home() {
+        return "Hello REST Microservice World";
+    }
+    
+    @RequestMapping(path = "/hom2")
+    public String home2() {
         return "Hello REST Microservice World";
     }
 }
