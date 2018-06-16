@@ -1,3 +1,5 @@
+// Our bodies and minds are capable of far more than our psyche will let us achieve.
+
 package com.atomist.gorton;
 
 import org.springframework.web.bind.annotation.RequestMapping;
