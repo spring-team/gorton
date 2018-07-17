@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 // It’s only a thought, and a thought can be changed.
 
 // I believe in you. You can do the thing!
