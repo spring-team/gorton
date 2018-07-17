@@ -1,3 +1,5 @@
+// Life is its own reason for being. It is beautiful to have a sense of beauty.
+
 package com.atomist.gorton;
 
 import org.springframework.boot.SpringApplication;
