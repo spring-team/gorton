@@ -1,3 +1,5 @@
+// No need to say 'I can do it.' You ARE doing it!
+
 // Life is psychologically difficult for everybody.
 
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
