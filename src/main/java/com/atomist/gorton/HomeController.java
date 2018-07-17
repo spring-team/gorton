@@ -1,3 +1,5 @@
+// Make new mistakes as fast as you can.
+
 // Our bodies and minds are capable of far more than our psyche will let us achieve.
 
 // Finite games are played within boundaries. Infinite games play with boundaries.
